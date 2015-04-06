@@ -1,7 +1,15 @@
 == README
 This application is a demo application from lectures for the Ruby on Rails course at Madison College, please use at your own risk.
 
-To use this application clone the repository, cd into the directory and bundle.
+To use this application:
+* clone/fork the repository 
+* cd into the directory
+* install gems```bundle install --path=vendor/bundle```
+* create database ```bundle exec rake db:migrate```
+
+
+
+
 
 The MIT License (MIT)
 
